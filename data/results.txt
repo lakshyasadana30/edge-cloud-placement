@@ -1,0 +1,11 @@
+N=30, K=3
+MIP Average distance (km)=1.599883618739227, Load standard deviation=8271.40722945954
+Top-K Average distance (km)=1.620294267916027, Load standard deviation=6902.3906164619675
+K-means Average distance (km)=1.8527856831945133, Load standard deviation=9658.859173295723
+Random Average distance (km)=1.9839098712753536, Load standard deviation=8296.342366994952
+======================================================
+N=30, K=15
+MIP Average distance (km)=0.2871594972416529, Load standard deviation=1142.201247105294
+Top-K Average distance (km)=0.45037917164951924, Load standard deviation=1498.9909791441562
+K-means Average distance (km)=0.457385653088718, Load standard deviation=2489.220891793178
+Random Average distance (km)=0.9076182720759268, Load standard deviation=1973.6700773562443
